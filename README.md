@@ -9,4 +9,4 @@ The aim of this project is to conduct an Exploratory Data Analysis (EDA) on the 
 - **Key Findings**: Through the application of these functions, we concluded that:
   - India is the largest country with the maximum number of transactions.
   - The highest number of zero ratings are from India.
-  - Online deliveries are available only in India and the UAE, with the majority of deliveries in India occurring in Delhi.
+  - Online deliveries are available only in India and the UAE, with most deliveries in India occurring in Delhi.
